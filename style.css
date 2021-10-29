@@ -1,0 +1,18 @@
+body{
+    padding-top:800px;
+    text-align: center;
+}
+.profile{
+    WIDTH:175px;
+    margin-bottom:50px;
+    border-radius: 50%;
+}
+
+.menu {
+   list-style:none ;
+   position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
